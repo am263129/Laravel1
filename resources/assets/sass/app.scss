@@ -1,0 +1,14 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Mukta+Malar');
+
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+// Bootstrap
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+// Import style
+@import '../../../public/themes/default/sass/main';
+
+.adswrapper {
+    background: rgba(255, 255, 255, 0.16);
+}
