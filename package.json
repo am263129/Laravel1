@@ -32,7 +32,7 @@
         "firebase": "^6.3.4",
         "flowplayer": "^7.2.7",
         "font-awesome": "^4.7.0",
-        "jquery": "^3.3.1",
+        "jquery": "^3.5.0",
         "jshint": "^2.9.6",
         "laravel-echo": "^1.4.1",
         "md5": "^2.2.1",
