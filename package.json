@@ -27,7 +27,7 @@
         "braintree": "^2.12.0",
         "braintree-web": "^3.39.0",
         "braintree-web-drop-in": "^1.14.1",
-        "chart.js": "^2.7.2",
+        "chart.js": "^2.9.4",
         "child_process": "^1.0.2",
         "firebase": "^6.3.4",
         "flowplayer": "^7.2.7",
