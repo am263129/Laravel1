@@ -1,32 +1,4 @@
 <html>
-<style>
-    .content {
-        background:#fff;
-        width:50%;
-        margin: 50px auto;
-        padding:50px;
-    }
-    .logo {
-        width:25%;
-        margin:0 auto;
-        text-align: center;
-    }
-    .logo span {
-        margin-top:50px;
-    }
-    .logo p  {
-        display: inline-block;
-        position: relative;
-        color: #404040;
-        font-size: 25px;
-        font-family: sans-serif;
-    }
-    .footer {
-        margin-top:100px;
-        background:#e8e8e8;
-        padding:20px;
-    }
-</style>
 <body>
 <div class="content" style="background: #fff;width: 50%;margin: 50px auto;padding: 50px;">
     <div class="header">
